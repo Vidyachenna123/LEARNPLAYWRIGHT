@@ -27,18 +27,14 @@ This repository contains hands-on JavaScript examples and exercises designed to 
 ```
 LEARNPLAYWRIGHT/
 ├── Chapter_01_Basics/
-│   ├── 01_basics.js
-│   ├── 02_JS.js
-│   ├── 03_JS_Verify_Setup.js
-│   └── 04_Hotcode.js
 ├── Chapter_02_Javascript/
-│   └── 05_JS_Basics.js
 ├── Chapter_03_Identifier_Literals/
-│   ├── 06_JS_Identifier rules.js
-│   ├── 07_Identifier_part2.js
-│   ├── 08_Comments.js
-│   ├── VS_Code_Keyboardshort_mac.md
-│   └── VS_Code_Keyboardshort_windows.md
+├── Chapter_04_Javascript_concepts/
+├── Chapter_05_literal/
+├── Chapter_06_Operator/
+├── Chapter_07_if_else/
+├── Chapter_08_Switch_Statement/
+├── Chapter_09_Userinput/
 └── README.md
 ```
 
@@ -101,6 +97,104 @@ Naming conventions, identifiers, comments, and helpful developer tools.
 | `VS_Code_Keyboardshort_mac.md` | VS Code shortcuts for macOS |
 | `VS_Code_Keyboardshort_windows.md` | VS Code shortcuts for Windows |
 
+### Chapter 04: JavaScript Concepts
+Deep dive into variables, scopes, hoisting, and functions.
+
+| File | Description |
+|------|-------------|
+| `09_var_let_const.js` | Introduction to var, let, and const |
+| `10_Function.js` | JavaScript functions |
+| `11_var_explained.js` | How `var` works |
+| `12_let_people_love.js` | Why `let` is preferred |
+| `13_const_explained.js` | How `const` works |
+| `14_var_functionscope.js` | `var` function scope behavior |
+| `15_let_scope.js` | `let` block scope behavior |
+| `16_Hoisting.js` | Hoisting explained |
+| `17_hoisting_fn.js` | Function hoisting |
+| `18_let_hoisting.js` | `let` hoisting behavior |
+| `19_let_hoisting_block.js` | Block-level hoisting |
+| `20_let_const.js` | `let` vs `const` comparison |
+| `21_jr_QA.js` | Junior QA interview questions |
+
+### Chapter 05: Literals
+Understanding JavaScript literals: numbers, strings, null, undefined, and template literals.
+
+| File | Description |
+|------|-------------|
+| `22_literal.js` | Overview of literals |
+| `23_null_undefined.js` | Difference between `null` and `undefined` |
+| `24_null.js` | Null in detail |
+| `25_literal_all.js` | All literal types |
+| `26_Literal_Number_all.js` | All number types (integer, float, scientific, hex, octal, binary, Infinity, NaN, BigInt) |
+| `27_String.js` | String literals |
+| `28_template_literal.js` | Template literals |
+| `29_Backtick_single_double.js` | Backtick vs single vs double quotes |
+
+### Chapter 06: Operators
+Arithmetic, comparison, logical, ternary, increment/decrement, and other operators.
+
+| File | Description |
+|------|-------------|
+| `30_Operator.js` | Operators overview |
+| `31_Arithmetic_Operator.js` | Arithmetic operators (+, -, *, /) |
+| `32_Modulus_Operator.js` | Modulus operator (%) |
+| `33_Exponential_Operator.js` | Exponentiation operator (**) |
+| `34_IQ.js` | IQ questions on operators |
+| `35_Comparision_Operator.js` | Comparison operators |
+| `36_Comparision_Strict_Loose.js` | Strict (`===`) vs Loose (`==`) comparison |
+| `37_IQ_Loose_strict.js` | IQ questions on loose vs strict |
+| `38_Confusing_Comparison.js` | Confusing `==` vs `===` examples |
+| `39_Logical_Operator.js` | Logical operators (&&, \|\|, !) |
+| `40_String_Concatenation_Operator.js` | String concatenation |
+| `41_Ternary_Operator.js` | Ternary (conditional) operator |
+| `42_Type_Operator.js` | `typeof` operator |
+| `43_Incre_Decre_Operator.js` | Increment (++) and decrement (--) |
+| `44_Null_Operator.js` | Nullish coalescing operator (`??`) |
+| `45_Post_Increament.js` | Post-increment behavior |
+| `46_IQ_Increment.js` | IQ questions on increment/decrement |
+| `47_Advance_ID.js` | Advanced increment/decrement questions |
+
+### Chapter 07: if-else Statements
+Conditional logic with real-world examples and IQ questions.
+
+| File | Description |
+|------|-------------|
+| `48_if_else.js` | Basic if-else |
+| `49_if_elseif_else.js` | if-else-if ladder |
+| `50_REAL_IF_ELSE.js` | Real-world if-else examples |
+| `51_API_IF_ELSE.js` | API-related if-else logic |
+| `52_IQ_IF_ELSE.js` | IQ questions on if-else |
+| `53_IF_ELSE_real.js` | More real-world examples |
+| `54_IQ.js` | Additional IQ questions |
+| `55_IE.js` | Internet Explorer / browser checks |
+| `56_IQ_even_Odd.js` | Even/odd logic |
+| `57_Grade_Cal..js` | Grade calculator |
+| `58_Leap_year.js` | Leap year checker |
+
+### Chapter 08: Switch Statement
+Switch-case control flow with grouped cases and real-time examples.
+
+| File | Description |
+|------|-------------|
+| `59_Switch.js` | Basic switch statement |
+| `60_No_break.js` | Switch without break |
+| `61_Default.js` | Default case in switch |
+| `62_Real_Time_Example.js` | Real-world switch example |
+| `63_Switch_Group.js` | Grouped cases |
+| `64_IQ.js` | IQ questions on switch |
+| `65_IQ2.js` | More IQ questions |
+| `66_IQ3.js` | Advanced IQ questions |
+| `67_IQ4.js` | Switch tricky questions |
+
+### Chapter 09: User Input
+Handling user input in Node.js using readline and prompt-sync.
+
+| File | Description |
+|------|-------------|
+| `65_User_Input.js` | User input basics |
+| `69_Node__readline.js` | Using Node.js readline |
+| `70_prompt_sync.js` | Using prompt-sync package |
+
 ---
 
 ## VS Code Keyboard Shortcuts
@@ -118,4 +212,4 @@ Feel free to fork this repository and submit pull requests. Suggestions and impr
 
 ---
 
-Happy Learning! 🚀
+Happy Learning!
