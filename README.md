@@ -35,6 +35,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_07_if_else/
 ├── Chapter_08_Switch_Statement/
 ├── Chapter_09_Userinput/
+├── Chapter_10_Loops/
 └── README.md
 ```
 
@@ -194,6 +195,24 @@ Handling user input in Node.js using readline and prompt-sync.
 | `65_User_Input.js` | User input basics |
 | `69_Node__readline.js` | Using Node.js readline |
 | `70_prompt_sync.js` | Using prompt-sync package |
+
+### Chapter 10: Loops
+For loop, while, do-while, for-of, for-in, and IQ questions.
+
+| File | Description |
+|------|-------------|
+| `71_For_Loop.js` | Basic for loop |
+| `72_For_loop.js` | For loop examples |
+| `73_For_loop2.js` | More for loop examples |
+| `74_IQ.js` | IQ questions on loops |
+| `75_For_OF_IN_EACH.js` | for-of, for-in loops |
+| `76_While.js` | While loop |
+| `77_Do_While.js` | Do-while loop |
+| `78_Do_While.js` | More do-while examples |
+| `79_IQ.js` | Loop IQ questions |
+| `80_IQ.js` | More loop IQ questions |
+| `81_IQ.js` | Advanced loop IQ questions |
+| `82_IQ.js` | Loop tricky questions |
 
 ---
 
