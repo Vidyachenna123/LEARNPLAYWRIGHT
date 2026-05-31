@@ -36,6 +36,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_08_Switch_Statement/
 ├── Chapter_09_Userinput/
 ├── Chapter_10_Loops/
+├── chapter_11_Arrays/
 └── README.md
 ```
 
@@ -213,6 +214,21 @@ For loop, while, do-while, for-of, for-in, and IQ questions.
 | `80_IQ.js` | More loop IQ questions |
 | `81_IQ.js` | Advanced loop IQ questions |
 | `82_IQ.js` | Loop tricky questions |
+
+### Chapter 11: Arrays
+Creating, accessing, modifying, searching, iterating, and transforming arrays.
+
+| File | Description |
+|------|-------------|
+| `83_Arrays.js` | Arrays basics |
+| `84_Arrays.js` | Array examples |
+| `85_Access_Array.js` | Accessing array elements |
+| `86_Arrays_Adding_Remove.js` | Adding and removing elements |
+| `87_Adding_Remove2.js` | More add/remove methods |
+| `88_Real_Example.js` | Real-world array examples |
+| `89_Searching.js` | Searching arrays |
+| `90_Iterate.js` | Iterating arrays |
+| `91_Transform_Array.js` | Transforming arrays |
 
 ---
 
