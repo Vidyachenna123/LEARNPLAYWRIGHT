@@ -37,6 +37,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_09_Userinput/
 ├── Chapter_10_Loops/
 ├── chapter_11_Arrays/
+├── Chapter_12_Functions/
 └── README.md
 ```
 
@@ -229,6 +230,24 @@ Creating, accessing, modifying, searching, iterating, and transforming arrays.
 | `89_Searching.js` | Searching arrays |
 | `90_Iterate.js` | Iterating arrays |
 | `91_Transform_Array.js` | Transforming arrays |
+| `92_Arrays.js` | Additional array methods |
+| `93_Array_Slicing.js` | Array slicing techniques |
+| `94_Concat_array.js` | Concatenating arrays |
+| `95_Array_Checking.js` | Checking array contents |
+
+### Chapter 12: Functions
+Function types, parameters, return values, expressions, arrow functions, and template literals.
+
+| File | Description |
+|------|-------------|
+| `96_Functions.js` | Functions overview |
+| `97_Type1_Fn_Basic_Functions.js` | Basic functions |
+| `98_Type2_Fn_With_Param_No_Return.js` | Functions with parameters and no return |
+| `99_Type3_Fn_Without_Param_Return_Type.js` | Functions without parameters but with return |
+| `100_Type4_Fn_With_Param_With_return.js` | Functions with parameters and return |
+| `102_Fn_Expressions.js` | Function expressions |
+| `102_Arrow_Fn.js` | Arrow functions |
+| `101_Template_Literal.js` | Template literals |
 
 ---
 
