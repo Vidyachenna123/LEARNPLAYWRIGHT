@@ -236,7 +236,7 @@ Creating, accessing, modifying, searching, iterating, and transforming arrays.
 | `95_Array_Checking.js` | Checking array contents |
 
 ### Chapter 12: Functions
-Function types, parameters, return values, expressions, arrow functions, and template literals.
+Function types, parameters, return values, expressions, arrow functions, IIFE, rest/spread, scope, closures, higher-order, and pure functions.
 
 | File | Description |
 |------|-------------|
@@ -245,9 +245,23 @@ Function types, parameters, return values, expressions, arrow functions, and tem
 | `98_Type2_Fn_With_Param_No_Return.js` | Functions with parameters and no return |
 | `99_Type3_Fn_Without_Param_Return_Type.js` | Functions without parameters but with return |
 | `100_Type4_Fn_With_Param_With_return.js` | Functions with parameters and return |
-| `102_Fn_Expressions.js` | Function expressions |
-| `102_Arrow_Fn.js` | Arrow functions |
 | `101_Template_Literal.js` | Template literals |
+| `102_Fn_Expressions.js` | Function expressions |
+| `103_Arrow_Fn.js` | Arrow functions (ES6) |
+| `104_Arrow_Fn_REAL.js` | Real-world arrow function examples |
+| `105_IIFE.js` | Immediately invoked function expressions (IIFE) |
+| `106_Default_Param_fn.js` | Default parameters |
+| `107_IQ.js` | IQ questions on functions |
+| `108_Rest_Param_Fn.js` | Rest parameters |
+| `109_IQ.js` | Advanced function IQ questions |
+| `110_Spread_IQ.js` | Spread operator with functions |
+| `111_Scope_Fn.js` | Function scope |
+| `112_IQ.js` | Scope IQ questions |
+| `113_Closure.js` | Closures basics |
+| `114_Closure.js` | Closures advanced (counter example) |
+| `115_API_REAL_Closure.js` | Real-world closures (API retry tracker) |
+| `116_Higher_Order_Fn.js` | Higher-order functions |
+| `117_Pure_Fn.js` | Pure vs impure functions |
 
 ---
 
