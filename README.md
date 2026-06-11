@@ -38,6 +38,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_10_Loops/
 ├── chapter_11_Arrays/
 ├── Chapter_12_Functions/
+├── Chapter_13_String_Methods/
 └── README.md
 ```
 
@@ -262,6 +263,13 @@ Function types, parameters, return values, expressions, arrow functions, IIFE, r
 | `115_API_REAL_Closure.js` | Real-world closures (API retry tracker) |
 | `116_Higher_Order_Fn.js` | Higher-order functions |
 | `117_Pure_Fn.js` | Pure vs impure functions |
+
+### Chapter 13: String Methods Cheat Sheet
+Comprehensive reference guide for all JavaScript string methods with one-liner examples.
+
+| File | Description |
+|------|-------------|
+| `00_String_Methods_Cheat_Sheet.md` | Complete string methods cheat sheet with examples and outputs |
 
 ---
 
