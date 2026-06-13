@@ -39,6 +39,7 @@ LEARNPLAYWRIGHT/
 ├── chapter_11_Arrays/
 ├── Chapter_12_Functions/
 ├── Chapter_13_String_Methods/
+├── Chapter_14_Objects/
 └── README.md
 ```
 
@@ -269,7 +270,27 @@ Comprehensive reference guide for all JavaScript string methods with one-liner e
 
 | File | Description |
 |------|-------------|
-| `00_String_Methods_Cheat_Sheet.md` | Complete string methods cheat sheet with examples and outputs |
+| `javascript_stringcheatsheet.md` | Complete string methods cheat sheet with examples and outputs |
+
+### Chapter 14: Objects
+Object basics, creation, dot vs bracket notation, reference vs primitive, methods, destructuring, spread, getters/setters, and real-world examples.
+
+| File | Description |
+|------|-------------|
+| `124_Objects.js` | Object basics and syntax |
+| `125_Objects2.js` | Object properties and reference behavior |
+| `126_Objects_Creation.js` | Object creation and comparison |
+| `127_Objects_Real.js` | Real-world object manipulation (config, delete) |
+| `128_Primitive_Ref.js` | Primitive vs reference types |
+| `129_Obj_Examples.js` | JSON vs JS object examples |
+| `130_IQ.js` | Object property access and modification |
+| `131_Object_Fn.js` | Object methods (functions inside objects) |
+| `132_Obj_Deconstruction.js` | Object destructuring with rename and defaults |
+| `133_spread.js` | Spread operator with objects |
+| `134_Objects_GET_SET_Methods.js` | Getter and setter methods |
+| `135_IQ.js` | Object.keys, Object.values, Object.entries, and for...in |
+| `136_Obj_REAL.js` | Real-world object examples (ENV, API response) |
+| `137_Let_Const_obj.js` | const vs let with objects |
 
 ---
 
