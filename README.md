@@ -12,6 +12,7 @@ Welcome to **LEARNPLAYWRIGHT** — a beginner-friendly repository for learning J
 - [Getting Started](#getting-started)
 - [Chapters Overview](#chapters-overview)
 - [VS Code Keyboard Shortcuts](#vs-code-keyboard-shortcuts)
+- [Interview Questions](#interview-questions)
 - [Contributing](#contributing)
 
 ---
@@ -40,6 +41,8 @@ LEARNPLAYWRIGHT/
 ├── Chapter_12_Functions/
 ├── Chapter_13_String_Methods/
 ├── Chapter_14_Objects/
+├── Chapter_15_2D_Array/
+├── Chapter_16_Callback/
 └── README.md
 ```
 
@@ -291,6 +294,43 @@ Object basics, creation, dot vs bracket notation, reference vs primitive, method
 | `135_IQ.js` | Object.keys, Object.values, Object.entries, and for...in |
 | `136_Obj_REAL.js` | Real-world object examples (ENV, API response) |
 | `137_Let_Const_obj.js` | const vs let with objects |
+
+### Chapter 15: 2D Arrays
+Two-dimensional arrays, nested loops, pattern printing, and real-world applications.
+
+| File | Description |
+|------|-------------|
+| `138_2D_Array.js` | 2D array basics and nested loops |
+| `139_2d.js` | 2D array examples |
+| `140_REAL.js` | Real-world 2D array examples |
+| `141_2D_Array_Fn.js` | 2D array functions |
+| `142_IQ_Right_pyramid_pattern.js` | Right pyramid pattern using 2D arrays |
+| `Task_Reverse_Pyramid.js` | Reverse pyramid pattern task |
+| `testdata.csv` | Sample CSV data for 2D array practice |
+
+### Chapter 16: Callbacks
+Synchronous and asynchronous callbacks, callback hell, anonymous functions, arrow callbacks, and real-world Playwright examples.
+
+| File | Description |
+|------|-------------|
+| `143_Callback.js` | Callback basics and syntax |
+| `144_CB.js` | Callback examples |
+| `145_CB_Fn.js` | Callback functions |
+| `146_PW_CB.js` | Playwright callback examples |
+| `147_JS_CB.js` | JavaScript callback patterns |
+| `148_Sync_CB.js` | Synchronous callbacks |
+| `149_Async_CB.js` | Asynchronous callbacks |
+| `150_CB_Hell.js` | Callback hell and nested callbacks |
+| `152_CB_Parameters.js` | Callback parameters |
+| `153_CB_Return.js` | Callback return values |
+
+---
+
+## Interview Questions
+
+A dedicated file for interview preparation:
+
+- [interview.md](./interview.md) — Key interview concepts including `const` vs `let` for objects, scope, hoisting, and more.
 
 ---
 
