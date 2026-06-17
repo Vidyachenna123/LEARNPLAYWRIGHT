@@ -43,6 +43,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_14_Objects/
 ├── Chapter_15_2D_Array/
 ├── Chapter_16_Callback/
+├── Chapter_17_Promises/
 └── README.md
 ```
 
@@ -323,6 +324,19 @@ Synchronous and asynchronous callbacks, callback hell, anonymous functions, arro
 | `150_CB_Hell.js` | Callback hell and nested callbacks |
 | `152_CB_Parameters.js` | Callback parameters |
 | `153_CB_Return.js` | Callback return values |
+
+### Chapter 17: Promises
+JavaScript Promises: creation, resolve/reject, real-world API examples, promise chaining, `.finally()`, callback-to-promise conversion, `Promise.all()`, and IQ questions.
+
+| File | Description |
+|------|-------------|
+| `154_Promise.js` | Promise basics with resolve and reject |
+| `155_Promise_REAL_API.js` | Real-world API promise example |
+| `156_Promise_REAL_API_Part2.js` | Advanced API promise patterns |
+| `157_Finally.js` | Using `.finally()` in promise chains |
+| `158_Call_Py_Problem.js` | Solving callback pyramid problem with promises |
+| `159_Promise_ALL.js` | `Promise.all()` for parallel execution |
+| `160_Promise_IQ.js` | IQ questions on promises |
 
 ---
 
