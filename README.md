@@ -40,10 +40,14 @@ LEARNPLAYWRIGHT/
 ├── chapter_11_Arrays/
 ├── Chapter_12_Functions/
 ├── Chapter_13_String_Methods/
+├── Chapter_13_Strings/
 ├── Chapter_14_Objects/
 ├── Chapter_15_2D_Array/
 ├── Chapter_16_Callback/
 ├── Chapter_17_Promises/
+├── Chapter_18_Async_Await/
+├── Chapter_19_Playwright_Basics.js/
+├── package.json
 └── README.md
 ```
 
@@ -69,7 +73,12 @@ LEARNPLAYWRIGHT/
    cd LEARNPLAYWRIGHT
    ```
 
-3. **Run a JavaScript file:**
+3. **Install dependencies (optional - for Playwright examples):**
+   ```bash
+   npm install
+   ```
+
+4. **Run a JavaScript file:**
    ```bash
    node Chapter_01_Basics/01_basics.js
    ```
@@ -276,6 +285,18 @@ Comprehensive reference guide for all JavaScript string methods with one-liner e
 |------|-------------|
 | `javascript_stringcheatsheet.md` | Complete string methods cheat sheet with examples and outputs |
 
+### Chapter 13: Strings
+String basics, properties, searching, substrings, transformations, and case conversion.
+
+| File | Description |
+|------|-------------|
+| `118_strings.js` | String basics with quotes and template literals |
+| `119_String_Properties.js` | String properties like `.length` |
+| `120_Search_Check_str.js` | Searching and checking strings |
+| `121_Substring.js` | Substring extraction methods |
+| `122_Transform_Str.js` | String transformation methods |
+| `123_SC.js` | String case conversion |
+
 ### Chapter 14: Objects
 Object basics, creation, dot vs bracket notation, reference vs primitive, methods, destructuring, spread, getters/setters, and real-world examples.
 
@@ -337,6 +358,20 @@ JavaScript Promises: creation, resolve/reject, real-world API examples, promise 
 | `158_Call_Py_Problem.js` | Solving callback pyramid problem with promises |
 | `159_Promise_ALL.js` | `Promise.all()` for parallel execution |
 | `160_Promise_IQ.js` | IQ questions on promises |
+
+### Chapter 18: Async/Await
+Modern asynchronous JavaScript with async/await syntax, error handling with try/catch/finally, sequential and parallel execution, and Playwright integration examples.
+
+| File | Description |
+|------|-------------|
+| `161_Async.js` | Async/await basics with try/catch/finally |
+| `162_Async_P2.js` | Async functions returning promises |
+| `163_PyofDome.js` | Async/await patterns |
+| `164_Async_Ex.js` | Async/await examples |
+| `165_Aync_Await_Parallel.js` | Parallel execution with async/await |
+| `165_Aync_Await_Sequential.js` | Sequential execution with async/await |
+| `166_IQ.js` | IQ questions on async/await |
+| `167_Adv_Logintest.js` | Advanced async login test example |
 
 ---
 
