@@ -1,0 +1,25 @@
+{
+  "name": "learn-playwright",
+  "version": "1.0.0",
+  "description": "Welcome to **LEARNPLAYWRIGHT** — a beginner-friendly repository for learning JavaScript fundamentals and Playwright automation testing step by step.",
+  "main": "Chapter_19_Playwright_Basics.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidyachenna123/LEARNPLAYWRIGHT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidyachenna123/LEARNPLAYWRIGHT/issues"
+  },
+  "homepage": "https://github.com/Vidyachenna123/LEARNPLAYWRIGHT#readme",
+  "dependencies": {
+    "playwright": "^1.61.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^26.0.0"
+  }
+}
