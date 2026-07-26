@@ -46,7 +46,8 @@ LEARNPLAYWRIGHT/
 ├── Chapter_16_Callback/
 ├── Chapter_17_Promises/
 ├── Chapter_18_Async_Await/
-├── Chapter_19_Playwright_Basics.js/
+├── Chapter_19_Playwright_Basics/
+├── Chapter_20_TypeScript_Basics/
 ├── package.json
 └── README.md
 ```
@@ -372,6 +373,18 @@ Modern asynchronous JavaScript with async/await syntax, error handling with try/
 | `165_Aync_Await_Sequential.js` | Sequential execution with async/await |
 | `166_IQ.js` | IQ questions on async/await |
 | `167_Adv_Logintest.js` | Advanced async login test example |
+
+### Chapter 20: TypeScript Basics
+Introduction to TypeScript module system, export/import patterns, and default vs named exports.
+
+| File | Description |
+|------|-------------|
+| `EXPORT_IMPORT/169_Utils.js` | Named import examples from `utils.js` and `testutils.js` |
+| `EXPORT_IMPORT/170_Logger.js` | Default import example from `logger.js` |
+| `EXPORT_IMPORT/ExplainDefault.md` | Guide explaining default vs non-default (named) exports |
+| `utils.js` | Named exports: `BASE_URL` and `formatTestName` |
+| `testutils.js` | Named exports: `BASE_URL` and `formatUpperCaseString` |
+| `logger.js` | Default export (`log`) plus named export (`log2`) |
 
 ---
 
