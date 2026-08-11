@@ -38,7 +38,7 @@ LEARNPLAYWRIGHT/
 ├── Chapter_09_Userinput/
 ├── Chapter_10_Loops/
 ├── chapter_11_Arrays/
-├── Chapter_12_Functions/
+├── chapter_12_Functions/
 ├── Chapter_13_String_Methods/
 ├── Chapter_13_Strings/
 ├── Chapter_14_Objects/
