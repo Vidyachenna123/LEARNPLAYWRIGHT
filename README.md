@@ -47,8 +47,11 @@ LEARNPLAYWRIGHT/
 ├── Chapter_17_Promises/
 ├── Chapter_18_Async_Await/
 ├── Chapter_19_Playwright_Basics/
-├── Chapter_20_TypeScript_Basics/
+├── Chapter_20_OOPs_Basics/
+├── Chapter_26_Typescript/
+├── Chapter_27_TypeScript_Interface/
 ├── package.json
+├── tsconfig.json
 └── README.md
 ```
 
@@ -374,17 +377,90 @@ Modern asynchronous JavaScript with async/await syntax, error handling with try/
 | `166_IQ.js` | IQ questions on async/await |
 | `167_Adv_Logintest.js` | Advanced async login test example |
 
-### Chapter 20: TypeScript Basics
-Introduction to TypeScript module system, export/import patterns, and default vs named exports.
+### Chapter 20: OOPs Basics
+Object-Oriented Programming fundamentals in JavaScript including export/import patterns, classes, encapsulation, inheritance, and polymorphism.
 
+#### 01 Export/Import
 | File | Description |
 |------|-------------|
-| `EXPORT_IMPORT/169_Utils.js` | Named import examples from `utils.js` and `testutils.js` |
-| `EXPORT_IMPORT/170_Logger.js` | Default import example from `logger.js` |
-| `EXPORT_IMPORT/ExplainDefault.md` | Guide explaining default vs non-default (named) exports |
+| `01_EXPORT_IMPORT/168_EXPORT_IMPORT.js` | Export/import basics |
+| `01_EXPORT_IMPORT/169_Utils.js` | Named import examples from `utils.js` and `testutils.js` |
+| `01_EXPORT_IMPORT/170_Logger.js` | Default import example from `logger.js` |
+| `01_EXPORT_IMPORT/ExplainDefault.md` | Guide explaining default vs non-default (named) exports |
 | `utils.js` | Named exports: `BASE_URL` and `formatTestName` |
 | `testutils.js` | Named exports: `BASE_URL` and `formatUpperCaseString` |
 | `logger.js` | Default export (`log`) plus named export (`log2`) |
+
+#### 02 Class & Object
+| File | Description |
+|------|-------------|
+| `02_CLASS_OBJECT/171_Class_Object.js` | Class and object basics |
+| `02_CLASS_OBJECT/172_Class_Object2.js` | Advanced class examples |
+| `02_CLASS_OBJECT/173_Car.js` | Car class example |
+| `02_CLASS_OBJECT/174_REAL_Browser.js` | Real-world browser automation class |
+| `02_CLASS_OBJECT/175_IQ.js` | Interview questions on classes |
+| `02_CLASS_OBJECT/176_Private_Public.js` | Private vs public members |
+| `02_CLASS_OBJECT/177_Static.js` | Static methods and properties |
+| `02_CLASS_OBJECT/178_Static.js` | More static examples |
+
+#### 03 Encapsulation
+| File | Description |
+|------|-------------|
+| `03_Encapsulation/179_Encap.js` | Encapsulation basics |
+| `03_Encapsulation/180_REAL_EXAMPLE.js` | Real-world encapsulation example |
+| `03_Encapsulation/181_Encap_Car.js` | Car encapsulation example |
+| `03_Encapsulation/182_encap_Bank.js` | Bank encapsulation example |
+
+#### 04 Inheritance
+| File | Description |
+|------|-------------|
+| `04_Inheritance/183_Single_Inheritance.js` | Single inheritance |
+| `04_Inheritance/184_SI_Example.js` | Single inheritance example |
+| `04_Inheritance/185_Single_Inheritance_Con.js` | Constructor in inheritance |
+| `04_Inheritance/186_IQ.js` | Interview questions on inheritance |
+| `04_Inheritance/187_IQ2.js` | More inheritance IQ questions |
+| `04_Inheritance/188_REAL_PageObject_Model.js` | Page Object Model with inheritance |
+| `04_Inheritance/189_Multiple_Inheritance.js` | Multiple inheritance patterns |
+| `04_Inheritance/190_Multiple_Level_Inheritance.js` | Multi-level inheritance |
+| `04_Inheritance/191_Hierarichal_Inheritance.js` | Hierarchical inheritance |
+
+#### 05 Polymorphism
+| File | Description |
+|------|-------------|
+| `05_Polymorphism/192_Method_Overriding.js` | Method overriding |
+
+#### Interview Questions
+| File | Description |
+|------|-------------|
+| `Interview_Questions/EX1.js` | OOPs interview example 1 |
+| `Interview_Questions/EX2.js` | OOPs interview example 2 |
+| `Interview_Questions/EX3.js` | OOPs interview example 3 |
+| `Interview_Questions/EX4.js` | OOPs interview example 4 |
+
+### Chapter 26: TypeScript Basics
+Introduction to TypeScript fundamentals including type annotations, function types, void vs never, and basic type checking.
+
+| File | Description |
+|------|-------------|
+| `193_TS.js` | TypeScript basics |
+| `194_TS_HelloWorld.js` | Hello World in TypeScript (JavaScript version) |
+| `194_TS_HelloWorld.ts` | Hello World in TypeScript |
+| `195_TS_Part1.ts` | TypeScript part 1 - basic types |
+| `196_TS_Part2.ts` | TypeScript part 2 - advanced types |
+| `197_TS_Part2.ts` | TypeScript part 2 continued |
+| `198_Part3.ts` | TypeScript part 3 - void vs never |
+| `199_IQ.ts` | TypeScript interview questions |
+| `200_IQ.ts` | More TypeScript interview questions |
+
+### Chapter 27: TypeScript Interface
+Understanding TypeScript interfaces with readonly properties and advanced interface patterns.
+
+| File | Description |
+|------|-------------|
+| `201_IF.ts` | Interface basics |
+| `202_IF_Part2.ts` | Interface part 2 |
+| `203_IF_READONLY.ts` | Readonly interface properties |
+| `204_IF_READONLY.ts` | More readonly interface examples |
 
 ---
 
