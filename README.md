@@ -13,6 +13,7 @@ Welcome to **LEARNPLAYWRIGHT** — a beginner-friendly repository for learning J
 - [Chapters Overview](#chapters-overview)
 - [VS Code Keyboard Shortcuts](#vs-code-keyboard-shortcuts)
 - [Interview Questions](#interview-questions)
+- [Recent Updates](#recent-updates)
 - [Contributing](#contributing)
 
 ---
@@ -50,6 +51,11 @@ LEARNPLAYWRIGHT/
 ├── Chapter_20_OOPs_Basics/
 ├── Chapter_26_Typescript/
 ├── Chapter_27_TypeScript_Interface/
+├── Chapter_28_ENUM/
+├── Chapter_29_Typescript_Generic/
+├── Chapter_30_PRIVATE_PUBLIC_PROTECTED/
+├── Chapter_31_Type_Overide_Decorators/
+├── Chapter_32_Playwright_Fundamentals/
 ├── package.json
 ├── tsconfig.json
 └── README.md
@@ -461,6 +467,63 @@ Understanding TypeScript interfaces with readonly properties and advanced interf
 | `202_IF_Part2.ts` | Interface part 2 |
 | `203_IF_READONLY.ts` | Readonly interface properties |
 | `204_IF_READONLY.ts` | More readonly interface examples |
+| `205_Interface.ts` | Advanced interface usage |
+| `206_Hooks.ts` | Interface hooks pattern |
+| `207_BugReport.ts` | Bug report interface example |
+| `208_TestConfig.ts` | Test configuration interface |
+| `209_REAL_EXAMPLE.ts` | Real-world interface example |
+| `210_Class_Interface.ts` | Classes implementing interfaces |
+
+### Chapter 28: ENUM
+Understanding TypeScript enums, enum functions, and real-world API usage.
+
+| File | Description |
+|------|-------------|
+| `211_ENUM.ts` | Enum basics |
+| `212_Enum_Fn.ts` | Enum functions |
+| `213_ENUM.ts` | Advanced enum examples |
+| `214_API.ts` | Enum usage in API scenarios |
+
+### Chapter 29: TypeScript Generic
+Introduction to TypeScript generics, generic classes, and generic API responses.
+
+| File | Description |
+|------|-------------|
+| `215_Generic.ts` | Generic basics |
+| `216_Generic_Class.ts` | Generic classes |
+| `217_Generic_API_RESPONSE.ts` | Generic API response handling |
+
+### Chapter 30: Private, Public, Protected
+Object-Oriented access modifiers, Page Object Model, readonly properties, and abstract classes.
+
+| File | Description |
+|------|-------------|
+| `218_PPP.ts` | Private, public, protected basics |
+| `219_PageObjectModel.ts` | Page Object Model example |
+| `220_READONLY.ts` | Readonly properties |
+| `221_Abstract_Class.ts` | Abstract classes |
+
+### Chapter 31: Type Override & Decorators
+Type assertions, type aliases, method overriding, and TypeScript decorators.
+
+| File | Description |
+|------|-------------|
+| `222_Type_As.ts` | Type assertion with `as` |
+| `223_Type_Alias_As.ts` | Type aliases |
+| `224_Overrid.ts` | Method overriding |
+| `225_IQ.ts` | Interview questions |
+| `226_Decorator.ts` | Decorator basics |
+| `227_Decorators_2.ts` | Advanced decorators |
+| `228_Multiple_Decor.ts` | Multiple decorators |
+
+### Chapter 32: Playwright Fundamentals
+Introduction to Playwright test automation with TypeScript configuration and basic tests.
+
+| File | Description |
+|------|-------------|
+| `package.json` | Project dependencies |
+| `playwright.config.ts` | Playwright configuration |
+| `tests/example.spec.ts` | Sample Playwright tests |
 
 ---
 
