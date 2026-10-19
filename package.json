@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Welcome to **LEARNPLAYWRIGHT** — a beginner-friendly repository for learning JavaScript fundamentals and Playwright automation testing step by step.",
   "main": "Chapter_19_Playwright_Basics.js",
+  "type": "module",
   "scripts": {},
   "repository": {
     "type": "git",

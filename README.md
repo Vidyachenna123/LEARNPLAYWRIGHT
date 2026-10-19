@@ -481,6 +481,14 @@ Quick reference guides for Visual Studio Code keyboard shortcuts are included:
 
 ---
 
+## Recent Updates
+
+### Playwright Configuration Fixes
+- Fixed TypeScript strict-mode errors in `playwright.config.ts` and `Chapter_32_Playwright_Fundamentals/playwright.config.ts`.
+- Added `"type": "module"` to `package.json` files to support ESM imports with `verbatimModuleSyntax`.
+- Added Node.js type references and replaced explicit `undefined` assignments with conditional spreads to satisfy `exactOptionalPropertyTypes`.
+- Verified both projects pass `npx tsc --noEmit` and Playwright test listing works correctly.
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are always welcome!
